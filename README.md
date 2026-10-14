@@ -1,8 +1,8 @@
 # Permanent Magnet Synchronous Generator
 
-A MATLAB/Simulink study of a permanent-magnet synchronous generator under open-circuit and loaded conditions. The project uses the dq representation to examine electrical output and electromechanical behavior.
+I modelled a permanent-magnet synchronous generator in MATLAB/Simulink and studied its behaviour under open-circuit and loaded conditions using the dq representation.
 
-## What it does
+## Main features
 
 - Models the generator's electrical and mechanical dynamics.
 - Studies the voltage produced during startup and steady rotation.
@@ -42,4 +42,4 @@ Run the model and inspect its scopes. Use `generator_loaded.slx` and `generator_
 | `generator_loaded.slx` | Loaded generator |
 | `generator_loaded_variant.slx` | Additional loaded configuration |
 
-Developed as a collaborative academic engineering project.
+Academic group project at the National Polytechnic School of Algiers.
